@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "entry_TestAbility",
+      "value": "entry_TestAbility"
+    },
+    {
+      "name": "testability_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "testability_HelloWorld",
+      "value": "你好，世界"
+    }
+  ]
+}

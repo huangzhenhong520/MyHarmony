@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    ohos:height="match_parent"
+    ohos:width="match_parent"
+    xmlns:ohos="http://schemas.huawei.com/res/ohos">
+    <DirectionalLayout
+        ohos:height="match_parent"
+        ohos:width="match_parent"
+        ohos:orientation="vertical">
+        <Text
+            ohos:id="$+id:text1"
+            ohos:height="match_content"
+            ohos:width="match_parent"
+            ohos:text="你好，世界,你好，世界,你好，世界,你好，世界,你好，世界你好，世界,你好，世界,你好，世界,你好，世界,你好，世界你好，世界,你好，世界,你好，世界,你好，世界,你好，世界"
+            ohos:text_size="30px"
+            ohos:text_color="#f00"
+            ohos:text_font="HwChinese-medium"
+            ohos:element_top="$media:icon"
+            ohos:element_padding="15px"
+            ohos:background_element="$graphic:background_login_can"
+            ohos:selection_color="#f00"
+            ohos:auto_scrolling_duration="5000"
+            ohos:scrollable="true"
+            ohos:padding_for_text="true"
+            ohos:additional_line_spacing="2px"
+            ohos:line_height_num="10px"
+
+            />
+
+    </DirectionalLayout>
+
+</ScrollView>
